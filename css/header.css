@@ -3,16 +3,114 @@
   justify-content: space-between;
   align-content: center;
   margin-top: 46px;
+  z-index: 1;
 }
+
 .header__logo-wrapper {
   margin-left: 216px;
 }
+
 .header__logo-img {
 }
 .header__ssilka {
 }
+
 .header__ssilk {
 }
+
 .header__televon-img {
   margin-right: 216px;
+}
+
+.block1 {
+  position: relative;
+  background: #e5e5e5;
+  margin-top: -100px;
+  display: flex;
+  z-index: -1;
+}
+
+.block1__content1 {
+  margin-left: 216px;
+}
+
+.block1__content1_text1 {
+  margin-top: 243px;
+  width: 567px;
+  height: 193px;
+  font-weight: 700;
+  font-size: 90px;
+  line-height: 109px;
+}
+
+.block1__content1_text2 {
+  margin-top: 36px;
+  width: 551px;
+  height: 75px;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 25px;
+}
+
+.block1__content1_a1 {
+  display: flex;
+  align-items: center;
+  margin-top: 118px;
+}
+
+.block1__content1_a1_knopka {
+  width: 267px;
+  height: 72px;
+  margin-right: 31px;
+  background-color: rgb(255, 0, 0);
+  border-radius: 60px;
+  text-align: center;
+  font-weight: 700;
+  font-size: 26.4944px;
+  line-height: 72px;
+  color: #ffffff;
+}
+
+.block1__content1_a1_text1 {
+  margin-right: 8px;
+  font-weight: 400;
+  font-size: 29.069px;
+  line-height: 40px;
+  color: #94a2b3;
+}
+.block1__content1_a1_ssilka {
+  text-decoration: none;
+}
+
+.block1__content1_a1_text2 {
+  font-weight: 400;
+  font-size: 29.069px;
+  line-height: 40px;
+  color: #299ef3;
+}
+
+.block1_content2 {
+  height: 949px;
+  width: 990px;
+  left: 954px;
+  top: -22px;
+}
+
+.foto1 {
+  position: absolute;
+}
+
+.foto2 {
+}
+
+.foto3 {
+}
+
+.foto4 {
+}
+
+.foto5 {
+}
+
+.foto6 {
 }
