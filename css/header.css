@@ -23,6 +23,7 @@
 }
 
 .block1 {
+  height: 927px;
   position: relative;
   background: #e5e5e5;
   margin-top: -100px;
@@ -31,6 +32,7 @@
 }
 
 .block1__content1 {
+  width: 567px;
   margin-left: 216px;
 }
 
@@ -90,27 +92,157 @@
 }
 
 .block1_content2 {
-  height: 949px;
-  width: 990px;
-  left: 954px;
-  top: -22px;
 }
 
 .foto1 {
   position: absolute;
+  margin-left: 653.64px;
 }
 
 .foto2 {
+  position: absolute;
+  left: 946px;
+  margin-top: 166px;
 }
 
 .foto3 {
+  position: absolute;
+  left: 923px;
+  margin-top: 425px;
+  z-index: -2;
 }
 
 .foto4 {
+  position: absolute;
+  left: 894px;
+  margin-top: 518px;
 }
 
 .foto5 {
+  position: absolute;
+  left: 1729px;
+  margin-top: 803px;
 }
 
 .foto6 {
+  position: absolute;
+  left: 1578px;
+  margin-top: 533px;
+}
+
+.block2 {
+  display: flex;
+  width: 1488px;
+  height: 243.84px;
+  margin-left: 216px;
+  margin-top: 118px;
+  background-color: #fdf4f4;
+  border-radius: 21px;
+}
+.block2__content1 {
+  margin-left: 125px;
+  width: 670px;
+}
+.block2__text1 {
+  padding-top: 51.38px;
+  font-weight: 700;
+  font-size: 36px;
+
+  color: #001a49;
+}
+.block2__text2 {
+  padding-top: 35px;
+  color: #57606a;
+  line-height: 36px;
+  font-weight: 500;
+  font-size: 24px;
+}
+
+.block2__content2 {
+  position: relative;
+}
+.block2__foto1 {
+  position: absolute;
+  margin-left: 77px;
+  margin-top: 29.17px;
+}
+.block2__foto2 {
+  position: absolute;
+  left: 162.5px;
+  margin-top: 5.65px;
+}
+.block2__foto3 {
+  position: absolute;
+  margin-left: 457px;
+  margin-top: 80px;
+}
+
+.block3 {
+  width: 1469px;
+  margin-top: 120px;
+  height: 502px;
+}
+.block3__text {
+  padding-left: 471px;
+  width: 978px;
+  font-weight: 700;
+  font-size: 50px;
+  line-height: 76px;
+  text-align: center;
+  color: #272d4e;
+}
+.block3__content {
+  display: flex;
+  margin-top: 72px;
+  margin-left: 179px;
+  width: 1700px;
+  height: 277px;
+}
+.block3__content__box1a {
+}
+.block3__content__box1a_b1 {
+  position: relative;
+  text-align: center;
+}
+.block3__content__box1a_chislo {
+}
+.block3__text1 {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 70px;
+  text-align: center;
+  color: #272d4e;
+}
+.block3__text2 {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 30px;
+  text-align: center;
+  color: #57606a;
+}
+.block3__content__box2 {
+  margin-top: 48px;
+  width: 284.5px;
+  border-top: 2px solid #c8c8c8;
+}
+.block3__content__box3a {
+}
+.block3__content__box1a_b2 {
+}
+.block3__content__box3a_foto1 {
+}
+.block3__content__box3a_foto2 {
+}
+.block3__content__box4 {
+  margin-top: 48px;
+  width: 284.5px;
+  border-top: 2px solid #c8c8c8;
+}
+.block3__content__box5a {
+}
+.block3__content__box1a_b3 {
+}
+.block3__content__box3a_foto1 {
+}
+.block3__content__box3a_foto2 {
 }
