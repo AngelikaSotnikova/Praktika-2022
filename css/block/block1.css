@@ -1,4 +1,5 @@
 .block1 {
+  width: 1920px;
   height: 927px;
   position: relative;
   background: #e5e5e5;
@@ -14,8 +15,8 @@
 
 .block1__content1_text1 {
   margin-top: 243px;
-  width: 567px;
-  height: 193px;
+  max-width: 567px;
+  max-height: 193px;
   font-weight: 700;
   font-size: 90px;
   line-height: 109px;
@@ -23,8 +24,8 @@
 
 .block1__content1_text2 {
   margin-top: 36px;
-  width: 551px;
-  height: 75px;
+  max-width: 551px;
+  max-height: 75px;
   font-weight: 500;
   font-size: 18px;
   line-height: 25px;
@@ -46,11 +47,17 @@
   font-weight: 700;
   font-size: 26.4944px;
   line-height: 72px;
+  opacity: 1;
+  transition: opacity 0.3s ease;
+}
+.block1__content1_a1__knopka:hover {
+  z-index: 11;
+  opacity: 0.5;
 }
 
 .block1__content1_a1_knopka_ssilka {
-  text-decoration: none;
   color: #ffffff;
+  text-decoration: none;
 }
 
 .block1__content1_a1_text1 {

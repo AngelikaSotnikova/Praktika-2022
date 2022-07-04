@@ -40,6 +40,12 @@
   font-size: 25.1389px;
   line-height: 82.96px;
   text-align: center;
+  opacity: 1;
+  transition: opacity 0.3s ease;
+}
+.block7__content1_knopka:hover {
+  z-index: 10;
+  opacity: 0.5;
 }
 .block7__content1_knopka_ssilka:hover {
 }
@@ -71,4 +77,12 @@
   position: absolute;
   margin-left: 384.17px;
   margin-top: 214.41px;
+}
+.block7__content2_knopka_ssilka {
+  opacity: 1;
+  transition: opacity 0.3s ease;
+}
+.block7__content2_knopka_ssilka:hover {
+  z-index: 10;
+  opacity: 0.5;
 }
