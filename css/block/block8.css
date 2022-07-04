@@ -1,0 +1,67 @@
+.block8 {
+  margin-top: 345.68px;
+  height: 306px;
+  background: #272d4e;
+}
+.block8__content {
+  display: flex;
+  margin-top: 110px;
+  margin-left: 216px;
+}
+.block8__content_box1 {
+  margin-top: 110px;
+}
+.block8__content_box1_foto {
+}
+.block8__content_box2 {
+}
+.block8__content_box2_ssilk {
+  margin-top: 124px;
+  margin-left: 121px;
+}
+.block8__content_box2_ssilk_li > a {
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: 400;
+  text-decoration: none;
+  color: aliceblue;
+}
+.block8__content_box2_ssilk_li {
+  display: inline;
+  margin-left: 95px;
+}
+.block8__content_box2_ssilk_ssilka1 {
+}
+.block8__content_box2_ssilk_ssilka2 {
+}
+.block8__content_box2_ssilk_ssilka3 {
+}
+.block8__content_box3 {
+  position: relative;
+  margin-top: 112px;
+}
+.block8__content_box3_foto1 {
+  position: absolute;
+  margin-left: 310px;
+}
+.block8__content_box3_foto2 {
+  position: absolute;
+  margin-left: 331px;
+}
+.block8__content_box3_foto3 {
+  position: absolute;
+  margin-left: 452px;
+}
+.block8__content_text {
+  content: none;
+  width: 1488px;
+  border-top: 1px solid #ffffff;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 22px;
+  text-align: center;
+  margin-left: 216px;
+  margin-top: 82px;
+  padding-top: 24px;
+  color: #ffffff;
+}

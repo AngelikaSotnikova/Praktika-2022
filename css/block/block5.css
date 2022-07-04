@@ -1,0 +1,21 @@
+.block5 {
+  margin-top: 204px;
+  height: 261px;
+  background: #eb242a;
+  display: flex;
+}
+.block5__text {
+  width: 709px;
+  padding-left: 220px;
+  padding-top: 54px;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 56px;
+  color: #ffffff;
+}
+.block5__televon {
+}
+.block5__televon_foto {
+  padding-left: 342px;
+  margin-top: 92px;
+}

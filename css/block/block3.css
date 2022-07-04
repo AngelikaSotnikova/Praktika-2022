@@ -1,0 +1,122 @@
+.block3 {
+  width: 1469px;
+  margin-top: 120px;
+  height: 502px;
+}
+.block3__text {
+  padding-left: 471px;
+  width: 978px;
+  font-weight: 700;
+  font-size: 50px;
+  line-height: 76px;
+  text-align: center;
+  color: #272d4e;
+}
+.block3__content {
+  display: flex;
+  margin-top: 72px;
+  margin-left: 179px;
+  width: 1670px;
+  height: 277px;
+}
+.block3__content_box1 {
+}
+.block3__content_box1_foto {
+}
+.block3__content_box1_chislo {
+  font-weight: 500;
+  font-size: 60.0858px;
+  text-align: center;
+  margin-top: -115px;
+  color: #eb242a;
+}
+.block3__content_box1_text1 {
+  padding-top: 50px;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 70px;
+  text-align: center;
+
+  color: #272d4e;
+}
+.block3__content_box1_text2 {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 30px;
+  text-align: center;
+  color: #57606a;
+}
+.block3__content_box2 {
+  margin-top: 65px;
+  width: 284.5px;
+  border-top: 2px solid #c8c8c8;
+}
+.block3__content_box3 {
+}
+.block3__content_box3_foto {
+}
+.block3__content_box3_chislo {
+  font-weight: 500;
+  font-size: 60.0858px;
+  text-align: center;
+  margin-top: -115px;
+  color: #eb242a;
+}
+.block3__content_box3_text1 {
+  padding-top: 50px;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 70px;
+  text-align: center;
+
+  color: #272d4e;
+}
+.block3__content_box3_text2 {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 30px;
+  text-align: center;
+  color: #57606a;
+}
+.block3__content_box4 {
+  margin-top: 65px;
+  width: 284.5px;
+  border-top: 2px solid #c8c8c8;
+}
+.block3__content_box5 {
+  width: 328px;
+}
+.block3__content_box5_foto {
+}
+.block3__content_box5_chislo {
+  font-weight: 500;
+  font-size: 60.0858px;
+  text-align: center;
+  margin-top: -115px;
+  color: #eb242a;
+}
+.block3__content_box5_text1 {
+  padding-top: 50px;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 70px;
+  text-align: center;
+
+  color: #272d4e;
+}
+.block3__content_box5_text2 {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 30px;
+  text-align: center;
+  color: #57606a;
+}
+.block3__content_box1_box {
+  text-align: center;
+}
+.block3__content_box3_box {
+  text-align: center;
+}
+.block3__content_box5_box {
+  text-align: center;
+}
