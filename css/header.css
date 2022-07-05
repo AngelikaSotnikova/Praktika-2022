@@ -2,8 +2,9 @@
   display: flex;
   justify-content: space-between;
   align-content: center;
+  position: relative;
   margin-top: 46px;
-  z-index: 1;
+  z-index: 3;
 }
 
 .header__logo-wrapper {
